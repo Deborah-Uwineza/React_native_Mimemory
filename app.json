@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mimemory",
+    "slug": "mimemory",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
